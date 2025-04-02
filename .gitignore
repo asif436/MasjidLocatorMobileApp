@@ -1,4 +1,6 @@
 # Miscellaneous
+*.xml
+*.properties
 *.class
 *.log
 *.pyc
